@@ -1,2 +1,10 @@
-# Artificial-Intelligence
-tensor flow , scikit learn , image classification , linear regression
+# Artificial-Intelligence , Neural Networks , Machine Learning
+tensor flow , scikit learn , pytorch, keras.
+
+
+
+
+
+
+
+
